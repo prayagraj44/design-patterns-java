@@ -1,4 +1,4 @@
-package org.example.creational.factorAbstract;
+package org.example.creational.factoryabstract;
 
 public abstract class PizzaStore {
 
